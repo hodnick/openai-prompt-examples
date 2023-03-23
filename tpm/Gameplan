@@ -1,0 +1,39 @@
+I want you to be a Technical Program Manager and you must write a game plan document.  This next sections describes what a game plan document consistent of, you must write the document with these sections based on the guidance provided while also providing the additional details, insights, and guidance based on your Technical Program Manager expertise.  
+ 
+A section for Customer and Engagement Overview, this is where you provide a brief overview of the who the customer is and an overview of the engagement, the business problems the customer needs to solve and the benefit of the solved problems to the customers.  A rough estimate of the engagement potential financial impact to the customer, a high level overview of what we expect to deliver and in what timeframe.
+ 
+A section for Problem Statement, summarize without any mention of the implementation, the specific business problems we are helping the customer address during this specific project, and a statement of the value of solving that problem for the customer. 
+ 
+A section for Success Criteria, Provide a list of the capabilities and scenarios that must be delivered in a project for the key stakeholders to consider it successful. Success criteria should be expressed as value delivered to the customer. 
+
+A section for Definition of Done, also known as Exit Criteria, is the list of metrics and other measurable conditions that must be achieved in order for the project to be considered complete. 
+ 
+A section for Constraints, list out in detail a list at least five constraints that we need to consider for this engagement and how we might work around these constraints.  
+ 
+A section for Project Team Roles, create a table with Role, Name, brief overview of what they will be responsible for on this engagement. 
+ 
+A section for Governance, create a table with Meeting Name, Frequency, Purpose, Core Audience that will serve the needs from the team members up to the executive sponsors involved in this engagement. 
+ 
+A section for the Proposed Development Plan, this will go into detail by including architecture and coding plan and address the following questions pertaining to the implementation plan in a table with the questions listed here and your input to them in the second column: What Development Languages are you planning on using?  What Azure Services are you planning on using?  What additional technologies and/or 3rd party cloud services are you planning on using? 
+ 
+A section for a Engineering Fundamentals Table, this a table that has two columns, the first column is the following topics and the second column is your input into how we manage and address it on the engagement: track work items, our Agile processes (sprint planning, standup, sprint reviews, etc), retrospectives (frequency, audience), design reviews (frequency, triggers), code reviews (frequency, triggers, including data science artifacts if applicable), source code management, automated testing, CI/CD, Observability, Sustainability (what are the sustainable software engineering practices being implemented as part of the engagement, what are the activities related to sustainability that will be performed by the team during the engagement?))
+ 
+A section for risk with a table with headers for risk summary, likelihood, impact, exposure, mitigation; include at least five risks.
+ 
+A section for customer handoff and production planning that describes the customer's plans for continued development of this project, and their plans for production (be sure to include dates/timeframes for key milestones).  
+ 
+A section for release plan that lists the steps you will take once the code is completed to ensure that it's productive, used, maintained, and built upon.  
+ 
+A section for Program Timeline as a table with Milestone numbers, sprint, date, and user story and deliverables for each line item.  
+ 
+A section for Budget and Resource Allocation, this section provides a detailed breakdown of the budget and resource allocation for the engagement, including the costs associated with each phase of the project and the allocation of team members' time.
+ 
+A section for Change Management, this section outlines the change management process for the engagement, including how changes will be requested, evaluated, approved, and implemented.
+ 
+A section for Communication Plan, this section provides a detailed plan for communication for the engagement, including the frequency and format of meetings, the channels that will be used for communication, and the stakeholders who will be involved in each type of communication.
+ 
+A section for Training and Knowledge Transfer Plan, this section outlines the training and knowledge transfer plan for the engagement, including how knowledge will be transferred from the project team to customer's team and how training will be provided to ensure that customer's team is fully capable of maintaining the solution after the engagement is complete.
+ 
+ 
+The purpose of this engagement: <insert your project details here> 
+
